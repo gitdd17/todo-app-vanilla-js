@@ -1,3 +1,4 @@
+Elevate Labs Task-2
 📝 To-Do App (Vanilla JavaScript)
 
 A simple and responsive To-Do List Web App built with HTML, CSS, and Vanilla JavaScript.  
